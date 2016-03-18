@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\mvc2-ms-pl\mvc2-ms-pl\MVC2-MS-Pl\bin\Debug\System.Web.Mvc.dll
+C:\Users\Administrator\Downloads\mvc2-ms-pl\mvc2-ms-pl\MVC2-MS-Pl\bin\Debug\System.Web.Mvc.pdb
+C:\Users\Administrator\Downloads\mvc2-ms-pl\mvc2-ms-pl\MVC2-MS-Pl\obj\Debug\System.Web.Mvc.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\mvc2-ms-pl\mvc2-ms-pl\MVC2-MS-Pl\obj\Debug\System.Web.Mvc.Resources.MvcResources.resources
+C:\Users\Administrator\Downloads\mvc2-ms-pl\mvc2-ms-pl\MVC2-MS-Pl\obj\Debug\System.Web.Mvc.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\mvc2-ms-pl\mvc2-ms-pl\MVC2-MS-Pl\obj\Debug\System.Web.Mvc.dll
+C:\Users\Administrator\Downloads\mvc2-ms-pl\mvc2-ms-pl\MVC2-MS-Pl\obj\Debug\System.Web.Mvc.pdb
+G:\PersonalProject\MVC2Basic\HelloWorld\mvc2-ms-pl\MVC2-MS-Pl\bin\Debug\System.Web.Mvc.dll
+G:\PersonalProject\MVC2Basic\HelloWorld\mvc2-ms-pl\MVC2-MS-Pl\bin\Debug\System.Web.Mvc.pdb
+G:\PersonalProject\MVC2Basic\HelloWorld\mvc2-ms-pl\MVC2-MS-Pl\obj\Debug\System.Web.Mvc.csprojResolveAssemblyReference.cache
+G:\PersonalProject\MVC2Basic\HelloWorld\mvc2-ms-pl\MVC2-MS-Pl\obj\Debug\System.Web.Mvc.Resources.MvcResources.resources
+G:\PersonalProject\MVC2Basic\HelloWorld\mvc2-ms-pl\MVC2-MS-Pl\obj\Debug\System.Web.Mvc.csproj.GenerateResource.Cache
+G:\PersonalProject\MVC2Basic\HelloWorld\mvc2-ms-pl\MVC2-MS-Pl\obj\Debug\System.Web.Mvc.dll
+G:\PersonalProject\MVC2Basic\HelloWorld\mvc2-ms-pl\MVC2-MS-Pl\obj\Debug\System.Web.Mvc.pdb
