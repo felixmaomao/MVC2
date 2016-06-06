@@ -22,7 +22,7 @@ namespace System.Web.Mvc {
 
     public class MvcRouteHandler : IRouteHandler {
         protected virtual IHttpHandler GetHttpHandler(RequestContext requestContext) {
-            return new MvcHandler(requestContext);    //不知道这边写死的 会不会耦合度太高
+            return new MvcHandler(requestContext);    //不知道这边写死的 会不会耦合度太高(实际上这边是根本不会变动的。)
         }
 
         #region IRouteHandler Members

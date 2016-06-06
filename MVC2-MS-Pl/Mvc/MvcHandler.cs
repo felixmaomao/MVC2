@@ -170,6 +170,7 @@ namespace System.Web.Mvc {
             //是因为这边要开放出去，可能使用第三方工厂。
             factory = ControllerBuilder.GetControllerFactory();   
             controller = factory.CreateController(RequestContext, controllerName);
+            //差距 在细节。比如异常处理这边
             if (controller == null) {
                 throw new InvalidOperationException(
                     String.Format(
