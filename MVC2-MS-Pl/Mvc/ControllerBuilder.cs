@@ -18,7 +18,7 @@ namespace System.Web.Mvc {
     using System.Web.Mvc.Resources;
 
     public class ControllerBuilder {
-        //为什么要定义委托？
+        //为什么要定义委托？（是为了写的更优美。因为创建fac的方式）
         private Func<IControllerFactory> _factoryThunk;
         //伪单例模式，这种方式也可以创建对象，但当你通过.current获取到的一定是同一个对象。
         private static ControllerBuilder _instance = new ControllerBuilder();
@@ -57,6 +57,7 @@ namespace System.Web.Mvc {
             _factoryThunk = () => controllerFactory;
         }
 
+        //这边还提供一共通过类型创建的重载
         public void SetControllerFactory(Type controllerFactoryType) {
             if (controllerFactoryType == null) {
                 throw new ArgumentNullException("controllerFactoryType");
