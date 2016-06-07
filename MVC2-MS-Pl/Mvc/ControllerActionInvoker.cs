@@ -70,7 +70,7 @@ namespace System.Web.Mvc {
             return actionResult;
         }
 
-        //这个方法用来获得controllerDescriptor
+        //这个方法用来获得controllerDescriptor  这些descriptor主要是处理特性。
         protected virtual ControllerDescriptor GetControllerDescriptor(ControllerContext controllerContext) {
             Type controllerType = controllerContext.Controller.GetType();
             ControllerDescriptor controllerDescriptor = DescriptorCache.GetDescriptor(controllerType, () => new ReflectedControllerDescriptor(controllerType));
@@ -188,6 +188,7 @@ namespace System.Web.Mvc {
             return false;
         }
 
+        #region 根据filter查看争取到的执行环境
         protected virtual ActionResult InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary<string, object> parameters) {
             object returnValue = actionDescriptor.Execute(controllerContext, parameters);
             ActionResult result = CreateActionResult(controllerContext, actionDescriptor, returnValue);
@@ -330,6 +331,6 @@ namespace System.Web.Mvc {
             controllerContext.HttpContext.Request.ValidateInput();
             string rawUrl = controllerContext.HttpContext.Request.RawUrl;
         }
-
+        #endregion
     }
 }
