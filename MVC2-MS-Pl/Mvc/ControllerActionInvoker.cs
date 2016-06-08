@@ -100,6 +100,7 @@ namespace System.Web.Mvc {
             return parameterDescriptor.BindingInfo.Binder ?? Binders.GetBinder(parameterDescriptor.ParameterType);
         }
 
+        //下面的这个方法的是什么玩意啊。
         protected virtual object GetParameterValue(ControllerContext controllerContext, ParameterDescriptor parameterDescriptor) {
             // collect all of the necessary binding properties
             Type parameterType = parameterDescriptor.ParameterType;
