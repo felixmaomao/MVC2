@@ -28,7 +28,7 @@ namespace System.Web.Mvc {
             TDescriptor[] descriptors = memberInfos.Select(converter).Where(descriptor => descriptor != null).ToArray();
             TDescriptor[] updatedCache = Interlocked.CompareExchange(ref cacheLocation, descriptors, null);
             return updatedCache ?? descriptors;
-        }
 
+        }
     }
 }

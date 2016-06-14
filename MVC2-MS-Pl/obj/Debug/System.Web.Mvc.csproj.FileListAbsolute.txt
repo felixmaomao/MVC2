@@ -19,3 +19,10 @@ F:\Personal\MVC2\MVC2-MS-Pl\obj\Debug\System.Web.Mvc.Resources.MvcResources.reso
 F:\Personal\MVC2\MVC2-MS-Pl\obj\Debug\System.Web.Mvc.csproj.GenerateResource.Cache
 F:\Personal\MVC2\MVC2-MS-Pl\obj\Debug\System.Web.Mvc.dll
 F:\Personal\MVC2\MVC2-MS-Pl\obj\Debug\System.Web.Mvc.pdb
+E:\MVC2\MVC2-MS-Pl\bin\Debug\System.Web.Mvc.dll
+E:\MVC2\MVC2-MS-Pl\bin\Debug\System.Web.Mvc.pdb
+E:\MVC2\MVC2-MS-Pl\obj\Debug\System.Web.Mvc.csprojResolveAssemblyReference.cache
+E:\MVC2\MVC2-MS-Pl\obj\Debug\System.Web.Mvc.Resources.MvcResources.resources
+E:\MVC2\MVC2-MS-Pl\obj\Debug\System.Web.Mvc.csproj.GenerateResource.Cache
+E:\MVC2\MVC2-MS-Pl\obj\Debug\System.Web.Mvc.dll
+E:\MVC2\MVC2-MS-Pl\obj\Debug\System.Web.Mvc.pdb

@@ -40,3 +40,6 @@ G:\PersonalProject\MVC2Basic\HelloWorld\mvc2-ms-pl\MVC2-MS-Pl\Mvc2Test\bin\zh-Ha
 G:\PersonalProject\MVC2Basic\HelloWorld\mvc2-ms-pl\MVC2-MS-Pl\Mvc2Test\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
 G:\PersonalProject\MVC2Basic\HelloWorld\mvc2-ms-pl\MVC2-MS-Pl\Mvc2Test\obj\Debug\Mvc2Test.dll
 G:\PersonalProject\MVC2Basic\HelloWorld\mvc2-ms-pl\MVC2-MS-Pl\Mvc2Test\obj\Debug\Mvc2Test.pdb
+E:\MVC2\MVC2-MS-Pl\Mvc2Test\obj\Debug\Mvc2Test.csprojResolveAssemblyReference.cache
+E:\MVC2\MVC2-MS-Pl\Mvc2Test\obj\Debug\Mvc2Test.dll
+E:\MVC2\MVC2-MS-Pl\Mvc2Test\obj\Debug\Mvc2Test.pdb
