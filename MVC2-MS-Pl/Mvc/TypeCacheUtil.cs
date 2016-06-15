@@ -24,6 +24,7 @@ namespace System.Web.Mvc {
 
         //在没有缓存的情况下 遍历所有的dll，得到所有符合要求的类型
         //公开 且有另外的要求（外界提供：即是controller）
+        //这边写的真美
         private static IEnumerable<Type> FilterTypesInAssemblies(IBuildManager buildManager, Predicate<Type> predicate) {
             // Go through all assemblies referenced by the application and search for types matching a predicate
             IEnumerable<Type> typesSoFar = Type.EmptyTypes;
